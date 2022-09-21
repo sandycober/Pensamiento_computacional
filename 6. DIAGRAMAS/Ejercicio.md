@@ -12,6 +12,8 @@
    
     ![image](https://user-images.githubusercontent.com/114102550/191580014-16b9aa77-cf70-423f-9f2c-08410a543150.png)
 
+![image](https://user-images.githubusercontent.com/114102550/191580766-abf4e074-2663-430d-965e-f19f6f07e8b7.png)
+
 
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
