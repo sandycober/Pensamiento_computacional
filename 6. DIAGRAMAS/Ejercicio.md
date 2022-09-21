@@ -17,7 +17,12 @@
 
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
-        AQUI TU ALGORITMO Y DIAGRMA DE FLUJO
+        1 inicio
+        2 declarar num (int resultado (int)
+        3 mostrar ("ingresa numero de metros")
+        4 asignar (yarda=metros* 1.094)
+        5 mostrar ( resultado
+        6 fin
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
