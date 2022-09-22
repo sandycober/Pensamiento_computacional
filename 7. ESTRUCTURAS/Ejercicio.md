@@ -27,9 +27,10 @@
          3 escribir "ingreas las calificaciones"
          4 leer c1,c2,c3,c4,
          5 p=(c1+c2+c3+c4)/4
-         6 escribir "El promedio de las 4 calificacione": es
+         6 escribir "El promedio de las 4 calificacione es:",p
          fin
-![image](https://user-images.githubusercontent.com/114102550/191861404-2fed5a04-e7ad-4b01-b9f3-37bcdff41054.png)
+ ![image](https://user-images.githubusercontent.com/114102550/191866032-5b95ecc1-5eb8-40f2-843d-6295fdcab198.png)
+
 
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
