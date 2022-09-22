@@ -17,11 +17,12 @@
           fin si
         8 fin 
         ![image](https://user-images.githubusercontent.com/114102550/191820904-c2bb20e4-a77b-4966-b4a4-53c8b1ebb9b4.png)
+![image](https://user-images.githubusercontent.com/114102550/191823170-2cf10368-4b19-4c50-990a-07f5e085c849.png)
 
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
-        TU ALGORITMO Y DIAGRAMA AQUI
+        inicio 
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
