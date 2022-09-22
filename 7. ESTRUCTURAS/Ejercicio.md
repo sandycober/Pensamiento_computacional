@@ -16,7 +16,8 @@
           fin si
           fin si
         8 fin 
-        
+        ![image](https://user-images.githubusercontent.com/114102550/191820904-c2bb20e4-a77b-4966-b4a4-53c8b1ebb9b4.png)
+
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
