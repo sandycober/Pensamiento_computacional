@@ -18,13 +18,25 @@
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
         1 inicio
-        2 declarar num (int resultado (int)
-        3 mostrar ("ingresa numero de metros")
-        4 asignar (yarda=metros* 1.094)
-        5 mostrar ( resultado
-        6 fin
+        2 definir metros, yardas como real
+        3 escribir 'ingresa los metros'
+        4 leer metros
+        5 yardas=metros*1.094
+        6 escibir 'los metros convertidos a yardas es:',yarda
+        7 fin
+FinAlgoritmo
+
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
-       AQUI TU ALGORITMO Y DIAGRMA DE FLUJO
+       1 inicio area trinagulo
+       2 asignar base, altura, areaaa como real
+       3 escribir " escribe la base del trinagulo"
+       4 leer base
+       6 escribir "escribe la altura del tringulo"
+       7 leer altura
+       area=(base* altura)/2
+       escribir "el area del triangulo es:",area
+       
+       
