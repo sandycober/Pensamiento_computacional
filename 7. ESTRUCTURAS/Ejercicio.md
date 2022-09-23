@@ -42,6 +42,7 @@
    6 escribir, " no es un numero impar
    fin si
    ![image](https://user-images.githubusercontent.com/114102550/191873169-8c228dbf-e088-41aa-a7b1-332db7cbfc9f.png)
-   ![image](https://user-images.githubusercontent.com/114102550/191968402-a98bdda7-c82c-43e6-b5c9-2de595a8c65c.png)
+ ![image](https://user-images.githubusercontent.com/114102550/191968740-6088a757-5325-4f1d-ac8d-99668d926d32.png)
+
 
 
