@@ -26,6 +26,8 @@
         7 fin
 FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/114102550/191788610-cfc64e84-a5bf-41e6-ab58-aefb47e1cac8.png)
+![image](https://user-images.githubusercontent.com/114102550/191978285-eae3cb0d-e72f-4b71-a902-736dc8449086.png)
+
 
 
 
