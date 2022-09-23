@@ -30,8 +30,7 @@
          6 escribir "El promedio de las 4 calificacione es:",p
          fin
  ![image](https://user-images.githubusercontent.com/114102550/191866032-5b95ecc1-5eb8-40f2-843d-6295fdcab198.png)
-
-
+![image](https://user-images.githubusercontent.com/114102550/191871489-0409f600-0c0d-416d-a840-ab6490ee7f11.png)
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
