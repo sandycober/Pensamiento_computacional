@@ -33,5 +33,13 @@
 ![image](https://user-images.githubusercontent.com/114102550/191871489-0409f600-0c0d-416d-a840-ab6490ee7f11.png)
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
+   1 inicio 
+   2 escribir " escribe un numero"
+   3 leer num
+   4 si num mod 2=0 entonces
+   5 escribi num, " es un numero par"
+   sino
+   6 escribir, " no es un numero impar
+   fin si
+   ![image](https://user-images.githubusercontent.com/114102550/191873169-8c228dbf-e088-41aa-a7b1-332db7cbfc9f.png)
 
-        TU ALGORITMO Y DIAGRAMA AQUI
