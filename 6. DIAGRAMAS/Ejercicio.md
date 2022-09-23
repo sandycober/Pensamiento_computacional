@@ -39,6 +39,8 @@ FinAlgoritmo
        7 leer altura
        area=(base* altura)/2
        escribir "el obtenida del triangulo es:",area
-       ![image](https://user-images.githubusercontent.com/114102550/191778412-4af9faa5-8cb1-4b3e-97db-0245abb6e37f.png)
+      ![image](https://user-images.githubusercontent.com/114102550/191778412-4af9faa5-8cb1-4b3e-97db-0245abb6e37f.png)
+      ![image](https://user-images.githubusercontent.com/114102550/191976943-146cdce3-c7bd-48bd-801a-702300c3f165.png)
+
 
        
