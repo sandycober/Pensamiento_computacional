@@ -68,15 +68,23 @@ fin
 
 5. Calcular la masa corporal peso sobre altura 
 1. incio 
-2. Escribrir " escibre tu nombre"
-3. leer nombre
-4. Escribir " escribe  tu peso"
-5. leer peso
-6. Escribir " escribe tu altura"
-7. leer alura
-8. 
-9. declar imc<18.5 entoces
-10. mostrar imc=/altura
-11.mostrar 
-12. 
+2. definir peso, estatura, imc_ como real
+3. Escribrir " escibre tu nombre"
+4. leer nombre
+5. Escribir " escribe  tu peso"
+6. leer peso
+7. Escribir " escribe tu altura"
+8. leer alura
+9. imc_<(peso/estatura)
+10. Escribir"Su IMC es de: "imc_
+11. si (imc>18.5 y imc_<24.9) entonces
+12.     Escribir "normal"
+13. sino    
+14. si (imc_>24.5  y  imc_<30 ) entonces
+15.  escribir " peso superior al normal"
+16.  sino
+17.  Escribir "Obesidad"
+18.  fin sino
+ 
+
 
