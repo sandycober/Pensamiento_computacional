@@ -45,4 +45,26 @@
  ![image](https://user-images.githubusercontent.com/114102550/191968740-6088a757-5325-4f1d-ac8d-99668d926d32.png)
 
 
+4. Programa que solicta un letra y nos dice si es vocal.
+
+1 incio
+2 Escribir " escribe una letra y dime si es vocal"
+3 leer vocal
+4 segun vocal hacer 
+5 "a" o "A"
+6 escribir vocal, " es vocal"
+7  "e" o "E"
+8 escribir vocal, " es vocal"
+9  "i" o "I"
+10 escribir vocal, " es vocal"
+11  "O" "O "
+12 escribir vocal, " es vocal"
+13  "U" "u "
+14  de otro modo 
+15 Escribir vocal " no es vocal"
+fin 
+![image](https://user-images.githubusercontent.com/114102550/192597001-e33de5b6-7add-4cac-90e6-4fe07f39d380.png)
+![image](https://user-images.githubusercontent.com/114102550/192597097-4cd76806-97bd-43bc-b818-127bd24a7643.png)
+
+5. Calcular la masa corporal peso sobre altura 
 
