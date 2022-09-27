@@ -74,8 +74,9 @@ fin
 5. leer peso
 6. Escribir " escribe tu altura"
 7. leer alura
-8. declar imc<18.5 entoces
-9. mostrar imc=/altura
-10.mostrar 
-11. 
+8. 
+9. declar imc<18.5 entoces
+10. mostrar imc=/altura
+11.mostrar 
+12. 
 
