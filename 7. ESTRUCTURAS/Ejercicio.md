@@ -69,11 +69,11 @@ fin
 5. Calcular la masa corporal peso sobre altura 
 1. incio 
 2. Escribrir " escibre tu nombre"
-3. mostrar nombre
+3. leer nombre
 4. Escribir " escribe  tu peso"
-5. mostar peso
+5. leer peso
 6. Escribir " escribe tu altura"
-7. mostar alura
+7. leer alura
 8. declar imc<18.5 entoces
 9. mostrar imc=/altura
 10.mostrar 
