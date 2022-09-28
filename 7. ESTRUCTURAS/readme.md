@@ -238,8 +238,6 @@ ALGORITMO
 
 DIAGRAMA DE FLUJO
 
-![image](https://user-images.githubusercontent.com/114102550/192858073-cf63146e-067f-4e41-baf5-f724c83c969d.png)
-
 ![image](https://user-images.githubusercontent.com/91554777/159388185-d6eaf814-17ab-4f1d-a7b6-545150919894.png)
 ![image](https://user-images.githubusercontent.com/114102550/192857955-7f1a5888-0a05-4fd3-a32b-b36e91dc2187.png)
 
@@ -358,7 +356,6 @@ DIAGRAMA DE FLUJO
 ![image](https://user-images.githubusercontent.com/91554777/159611442-7021d29f-c727-44d4-baef-84cc1d862425.png)
 
 
-
 Quieres ver corriendo el código en JS https://jseditor.io/
 
     var contra;
@@ -402,3 +399,22 @@ ALGORITMO
 INGRESA A LA SIGUIENTE PRESENTACION
     
 https://docs.google.com/presentation/d/1HuS9KM8UKOnO84M0GBDz_WBeKo23BVJs34tpq2WZHSU/edit?usp=sharing
+
+caAñgoritmo y diagrama de flujo de calificaciones de 10 alumnos
+1 inicio
+definir a ,reprobados, aprobados como real
+definir cal como real
+Escribir " Ingresa el numuero del alumno"
+leer a
+reprobado = 0
+aprovados = 0
+Escribir " Ingresa el nombre del alumno"
+leer nombre
+Escribir " ingressa la primera calificacion "
+leer cal1
+Escribir " Ingresa la segunda calificacion "
+leer cal2
+Escribir "Ingresa la tercera calificacion "
+leer cal 3
+Escribir  "Ingresa la cuarta calificacion "
+leer cal 4
