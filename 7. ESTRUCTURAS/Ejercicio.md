@@ -90,6 +90,7 @@ fin
 25.  finsi
 26.  Escribir " tu indice de imc corporales: ",imc,"tienes",masa
 27.  ![image](https://user-images.githubusercontent.com/114102550/192651255-23e6655b-cb01-4532-a7d3-3e34219b0fa6.png)
+![image](https://user-images.githubusercontent.com/114102550/192779014-ee13365c-0f8b-4e40-a413-b84c92105afa.png)
 
 
 
