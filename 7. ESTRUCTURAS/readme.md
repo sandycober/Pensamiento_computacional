@@ -400,7 +400,8 @@ INGRESA A LA SIGUIENTE PRESENTACION
     
 https://docs.google.com/presentation/d/1HuS9KM8UKOnO84M0GBDz_WBeKo23BVJs34tpq2WZHSU/edit?usp=sharing
 
-caAñgoritmo y diagrama de flujo de calificaciones de 10 alumnos
+Añgoritmo y diagrama de flujo de calificaciones de 10 alumnos
+
 1 inicio
 definir a ,reprobados, aprobados como real
 definir cal como real
@@ -418,3 +419,7 @@ Escribir "Ingresa la tercera calificacion "
 leer cal 3
 Escribir  "Ingresa la cuarta calificacion "
 leer cal 4
+Escribir " El promedio de las calificaciones es: ", promedio
+SI ( promedio>4 ) Entonces
+Escribir " Aprovado=0," " reprovado, "
+Fin si 
