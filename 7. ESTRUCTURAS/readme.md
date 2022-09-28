@@ -238,7 +238,11 @@ ALGORITMO
 
 DIAGRAMA DE FLUJO
 
+![image](https://user-images.githubusercontent.com/114102550/192858073-cf63146e-067f-4e41-baf5-f724c83c969d.png)
+
 ![image](https://user-images.githubusercontent.com/91554777/159388185-d6eaf814-17ab-4f1d-a7b6-545150919894.png)
+![image](https://user-images.githubusercontent.com/114102550/192857955-7f1a5888-0a05-4fd3-a32b-b36e91dc2187.png)
+
 
 Quieres ver corriendo el código en JS https://jseditor.io/
 
@@ -250,6 +254,10 @@ Quieres ver corriendo el código en JS https://jseditor.io/
         resultado=numero * contador;
         document.write(numero + " * " + contador + " = " + resultado + "<br>")
     }
+    ![image](https://user-images.githubusercontent.com/114102550/192857250-e9234779-588c-4878-9252-3972dda74d1c.png)
+    
+![image](https://user-images.githubusercontent.com/114102550/192857427-50689a8a-5d93-4af7-8143-1d381d43f1da.png)
+
 
 
 Mientras (while). Se emplea para ejecutar un bloque de instrucciones en un ciclo sin necesidad de establecer el número de veces que lo hará. Se compone por una expresión lógica, relacional o aritmética, que es evaluada en una condición.
