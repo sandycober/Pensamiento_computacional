@@ -93,4 +93,5 @@ fin
 ![image](https://user-images.githubusercontent.com/114102550/192779014-ee13365c-0f8b-4e40-a413-b84c92105afa.png)
 
 
-
+multiplicar
+![image](https://user-images.githubusercontent.com/114102550/192852316-364a76e1-e083-4693-ba79-4c94be001cbc.png)
