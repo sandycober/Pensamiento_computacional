@@ -423,3 +423,5 @@ Escribir " El promedio de las calificaciones es: ", promedio
 SI ( promedio>4 ) Entonces
 Escribir " Aprovado=0," " reprovado, "
 Fin si 
+![image](https://user-images.githubusercontent.com/114102550/192916125-1e1879aa-5037-4e2e-af01-c4da73a07ec7.png)
+
