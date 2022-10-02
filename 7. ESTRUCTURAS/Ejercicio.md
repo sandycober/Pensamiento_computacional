@@ -131,8 +131,10 @@ Si num3<num1  y num3< num2 Entonces
  Fin si 
  
  FinAlgoritmo
+    diagrama de flujo 
     
-        
+     ![image](https://user-images.githubusercontent.com/114102550/193475926-db1e95ef-07b3-4e1f-ac50-b4739c52b88a.png)
+   
      
     
 
