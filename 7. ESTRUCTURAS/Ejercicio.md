@@ -95,3 +95,44 @@ fin
 
 multiplicar
 ![image](https://user-images.githubusercontent.com/114102550/192852316-364a76e1-e083-4693-ba79-4c94be001cbc.png)
+
+Ejercio de ingresa el numero 
+
+Algoritmo
+num1<-0
+num2<-0
+num3<-0
+Escribir "Ingresa el primer numero "
+leer num1
+Escribir "Ingresa el segundo numero "
+leer num2
+Escribir "Ingresa el tercero numero "
+leer num3
+Si num1> num2 y num1 Entonces
+    si num2< num3 Entonces
+    Escribir num1," , " , num3, ", ", num2
+    Sino
+       Escribir num1, ", " , num3, ", ", num2
+    finsi
+Fin si 
+Si num2< num1 y num2<num3 Entonces
+     si num1< num3 entonces
+     Esctibir num2,", " , num1, ", ", num3
+sino
+     Escribir num2, ", ",num3, "," , num1
+     finsi
+Fin si
+Si num3<num1  y num3< num2 Entonces
+    si num1 < num2 entonces
+       Escribir num3, ", ", num1, ", " , num2
+    sino 
+       escribir num3,", ", num2, ", " , num1
+    finsi
+ Fin si 
+ 
+ FinAlgoritmo
+    
+        
+     
+    
+
