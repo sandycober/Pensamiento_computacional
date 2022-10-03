@@ -459,7 +459,9 @@ Algoritmo y diagrama de flujo de numero secreto con 5 vidas
    finmientras
    fin algoritmo
    
-   
-   
+   ![image](https://user-images.githubusercontent.com/114102550/193612634-5e20744d-6481-4461-b4c4-0aedf7f41afa.png)
+
+   ![image](https://user-images.githubusercontent.com/114102550/193612783-2f7a7705-2db7-4649-b091-682e47c7cba6.png)
+
   
   
