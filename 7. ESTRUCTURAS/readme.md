@@ -400,7 +400,7 @@ INGRESA A LA SIGUIENTE PRESENTACION
     
 https://docs.google.com/presentation/d/1HuS9KM8UKOnO84M0GBDz_WBeKo23BVJs34tpq2WZHSU/edit?usp=sharing
 
-Añgoritmo y diagrama de flujo de calificaciones de 10 alumnos
+Algoritmo y diagrama de flujo de calificaciones de 10 alumnos
 
 1 inicio
 definir a ,reprobados, aprobados como real
@@ -426,3 +426,40 @@ Fin si
 ![image](https://user-images.githubusercontent.com/114102550/192916125-1e1879aa-5037-4e2e-af01-c4da73a07ec7.png)
 ![image](https://user-images.githubusercontent.com/114102550/193034642-34f0600c-065d-4476-bf90-2f64e59e06c9.png)
 
+Algoritmo y diagrama de flujo de numero secreto con 5 vidas 
+
+1 Inicio
+2 definir numero secreto, x, n como entero
+3 numero secreto= azar (a)+1x=5
+  mientras x > o hacer
+4 Escribir " Ingresa el numero"
+  Mientras  x > o hacer
+  escribir "ingresa un numero"
+5 leer num
+  si numero secreto==n entonces
+6 Esctribir "felicidades adivinaste el numero:,numero secreto x = 0
+  sino
+  x=x-1
+  si x==0 entonces
+  se cumpla quiere decir que se ha fallado los 5 intentos
+7 Escribir " haz fallado los 5  intentos"
+8 Mostrar el numero secreto
+9 escribir " el numero secreto es; " numero secreto"
+   sin 
+10 Escribir " fallaste te quedan, "4", intentos
+   sino 
+11  Escribir " fallaste te quedan, "3", intentos
+   sino   
+   Escribir " fallaste te quedan, "2", intentos
+   sino  
+   Escribir " fallaste te quedan, "1", intentos
+   sino  
+12 finsi
+   finsi
+   finmientras
+   fin algoritmo
+   
+   
+   
+  
+  
