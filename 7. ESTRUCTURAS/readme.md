@@ -457,11 +457,57 @@ Algoritmo y diagrama de flujo de numero secreto con 5 vidas
 12 finsi
    finsi
    finmientras
-   fin algoritmo
-   
+   fin algoritmo 
    ![image](https://user-images.githubusercontent.com/114102550/193612634-5e20744d-6481-4461-b4c4-0aedf7f41afa.png)
-
    ![image](https://user-images.githubusercontent.com/114102550/193612783-2f7a7705-2db7-4649-b091-682e47c7cba6.png)
+   
+   Algoritmo numero secreto
+  1 Inicio
+  2 definir num, vidas, como entero
+  3 num_sec=azar(100)
+  4 Escribir " adivina el numero secreto"
+  5 leer num
+  6 Mientras num#num_sec Y vidas>0 hacer
+      Si num<num_sec-1
+  7 Escribir num, " es menor al secreto"
+  8 Escribir " adivina el numero secreto, te quedaran ", vidas, " oportunidades"
+  9 leer num
+     Sino
+     vidas<-vidas-1
+  10 Escribir num, " es mayor al secreto"
+  11 EScribir" adivina el numero secreto, te quedan ", vidas," oportunidades"
+  12 leer num
+      Fin si
+  fin mientras
+      si num==num_sec Entonces
+      Escribir " felicidades le atinaste al numero secreto"
+      sino
+      Escribir " se terminaron tus oportunidades, el numero secretp era ", num_sec
+      fin si 
+      
+   ![image](https://user-images.githubusercontent.com/114102550/193948131-d226f04c-0168-464d-8226-d48c34449bed.png)
+   ![image](https://user-images.githubusercontent.com/114102550/193948225-aa18ad54-c1c7-45c4-91cc-8baecfafa2a8.png) 
+
+
+  Promedio Y Proyecto final
+  1 INICIO
+  2 definir alumno, edad, calificacion, promedio, suma  como enteros
+  3 Escribir " ingresa nombre del alumno "
+  4 leer nombre 
+  5 Escribir " ingresa la edad "
+  6 leer edad
+  7 EScrinor "ingresa las tres calificaciones "
+  8 leer  cal1+cal2+cal3
+  9 Escribir "ingresa el promedio "
+    promedio ( cal1+cal2+cal3 ) / 3
+ 10 Escribir " El promedio de las tres calificaciones es: ", promedio
+ 11 finAlgoritmo
+  
+ ![image](https://user-images.githubusercontent.com/114102550/193944230-4d5c3d48-f6b5-482d-8689-bbab8cfb8d4c.png)
+ ![image](https://user-images.githubusercontent.com/114102550/193944301-79ebc8d4-a3e2-4321-b73e-9724a5c7e728.png)
+
+ 
+  
 
   
   
